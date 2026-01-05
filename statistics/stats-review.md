@@ -39,5 +39,8 @@
 - If p < 0.05 then we can reject the null hypothesis
 - else there is not enough evidence!
 
+**p-values**
+- Hypothesis tests - is data extreme enough to reject the null
+- p-values - how extreme our sample is OR how STRONG is the evidence of rejecting the null hypothesis
 
 
